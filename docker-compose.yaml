@@ -2,7 +2,7 @@ version: '3.3'
 
 services:
   app:
-    build: lesson23_project_source
+    build: pythonProject4
     ports:
       - 8080:25000
     environment:
